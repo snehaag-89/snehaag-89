@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center" style="font-size: 80px; color: #123456; margin-bottom: 5px;">SNEHA AGRAWAL</h1>
-<h3 align="center" style="font-size: 25px; color: #555555; font-weight: 400; margin-top: 0;">Software Engineer | Competitive Programmer</h3>
+<h3 align="center" style="font-size: 25px; color: #555555; font-weight: 400; margin-top: 0;">Software Engineer </h3>
 
 <br/>
 
